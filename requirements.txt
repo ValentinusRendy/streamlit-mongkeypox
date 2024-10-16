@@ -1,4 +1,5 @@
-numpy==1.25.2
+numpy>=1.26.0
+distutils
 streamlit
 tensorflow==2.17.0
 PIL==10.0.0
